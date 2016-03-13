@@ -24,7 +24,5 @@
 
 auto/
 .DS_Store
-\#*
+\#
 .#*
-
-*.pdf
